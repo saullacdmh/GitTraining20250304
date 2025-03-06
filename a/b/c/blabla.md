@@ -5,4 +5,4 @@ like caption
 
 carmine was here 🤖
 saul was here
-Project 2: Merge Conflicts with a different string
+Project 2. Resolving a Merge Conflict
